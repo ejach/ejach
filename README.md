@@ -11,7 +11,7 @@
   <img align="left" alt="Evan's Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
 
-
+<br>
 <br>
 I am currently a full-time student pursuing a degree in Computer Information Systems with a minor in business administration. 
 
