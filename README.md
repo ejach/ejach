@@ -12,6 +12,7 @@
 </a>
 
 
+<br>
 I am currently a full-time student pursuing a degree in Computer Information Systems with a minor in business administration. 
 
 ### Technologies 🤖 
