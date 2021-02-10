@@ -10,6 +10,9 @@
 <a href="https://gitlab.com/ejach2000">
   <img align="left" alt="Evan's Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
+<a href="https://stackoverflow.com/users/13417835/ejach">
+  <img align="left" alt="Evan's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />
+</a>
 
 <br>
 <br>
