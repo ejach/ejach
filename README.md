@@ -35,7 +35,7 @@ I have experience in:
 
 - <a href="#"><img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg" /></a>  Linux
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejach&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejach&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 I am actively learning new languages and concepts whenever I find time. Aside from programming, I invest my time in furthering my experience in game development, cybersecurity, and computer hardware. 
