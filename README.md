@@ -1,4 +1,4 @@
-## Hello World 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ejach.visitor-badge)
+## Hello World 👋
 
 ### I am Evan J. 
 <a href="https://www.linkedin.com/in/evan-jach/">
