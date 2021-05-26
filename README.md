@@ -7,7 +7,7 @@
 <a href="https://github.com/ejach">
   <img align="left" alt="Evan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://gitlab.com/ejach2000">
+<a href="https://gitlab.com/e-jach">
   <img align="left" alt="Evan's Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
 <a href="https://stackoverflow.com/users/13417835/ejach">
