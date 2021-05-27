@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-### I am Evan J. 
+### I am Evan J.
 <a href="https://www.linkedin.com/in/evan-jach/">
   <img align="left" alt="Evan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -13,9 +13,8 @@
 <a href="https://stackoverflow.com/users/13417835/ejach">
   <img align="left" alt="Evan's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />
 </a>
-
-<br>
-<br>
+<br />
+<br />
 I am currently a full-time student pursuing a degree in Computer Information Systems with a minor in Business Administration. 
 
 ## Technologies 🤖 
@@ -35,8 +34,13 @@ I have experience in:
 
 - <a href="#"><img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg" /></a>  Linux
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejach&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>GitHub Stats</summary>
+  
+[![Top Langs](https://github.com/ejach/github-stats-transparent/blob/output/generated/languages.svg)](https://github.com/rahul-jha98/github-stats-transparent)
+[![Overview](https://github.com/ejach/github-stats-transparent/blob/output/generated/overview.svg)](https://github.com/rahul-jha98/github-stats-transparent)
 
+</details>
 
 I am actively learning new languages and concepts whenever I find time. Aside from programming, I invest my time in furthering my experience in game development, cybersecurity, and computer hardware. 
 
