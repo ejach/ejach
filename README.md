@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/ejach/ejach/main/assets/wavehand.gif" width="25px">
+## Hello World! <a href="#"><img src="https://raw.githubusercontent.com/ejach/ejach/main/assets/wavehand.gif" width="25px"></a>
 
 ### I am Evan J.
 <a href="https://www.linkedin.com/in/evan-jach/">
