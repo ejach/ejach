@@ -1,4 +1,4 @@
-## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello World! <img src="https://raw.githubusercontent.com/ejach/ejach/main/assets/wavehand.gif" width="25px">
 
 ### I am Evan J.
 <a href="https://www.linkedin.com/in/evan-jach/">
