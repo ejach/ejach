@@ -1,14 +1,14 @@
-## Hello World 👋
+## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### I am Evan J.
 <a href="https://www.linkedin.com/in/evan-jach/">
-  <img align="left" alt="Evan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Evan's LinkdeIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ejach">
-  <img align="left" alt="Evan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Evan's Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://gitlab.com/e-jach">
-  <img align="left" alt="Evan's Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+  <img align="left" alt="Evan's Gitlab" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
 <a href="https://stackoverflow.com/users/13417835/ejach">
   <img align="left" alt="Evan's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />
@@ -33,14 +33,9 @@ I have experience in:
 - <a href="#"><img align="left" alt="C/C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" /></a> C/C++
 
 - <a href="#"><img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg" /></a>  Linux
-
-<details>
-  <summary>GitHub Stats</summary>
   
 [![Top Langs](https://github.com/ejach/github-stats-transparent/blob/output/generated/languages.svg)](https://github.com/rahul-jha98/github-stats-transparent)
 [![Overview](https://github.com/ejach/github-stats-transparent/blob/output/generated/overview.svg)](https://github.com/rahul-jha98/github-stats-transparent)
-
-</details>
 
 I am actively learning new languages and concepts whenever I find time. Aside from programming, I invest my time in furthering my experience in game development, cybersecurity, and computer hardware. 
 
