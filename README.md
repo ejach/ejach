@@ -19,6 +19,9 @@
 <a href="https://www.reddit.com/user/draco123465">
   <img align="left" alt="Evan's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/reddit.svg" />
 </a>
+<a href="https://ko-fi.com/ejach">
+  <img align="left" alt="Evan's Ko-Fi" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ko-fi.svg" />
+</a>
 <br />
 <br />
 I am currently a full-time student pursuing a degree in Computer Information Systems with a minor in Business Administration. 
