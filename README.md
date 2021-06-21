@@ -39,6 +39,8 @@ I have experience in:
 - <a href="#"><img align="left" alt="C/C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" /></a> C/C++
 
 - <a href="#"><img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg" /></a>  Linux
+
+- <a href="#"><img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" /></a>  Docker
   
 [![Top Langs](https://github.com/ejach/github-stats-transparent/blob/output/generated/languages.svg)](https://github.com/rahul-jha98/github-stats-transparent)
 [![Overview](https://github.com/ejach/github-stats-transparent/blob/output/generated/overview.svg)](https://github.com/rahul-jha98/github-stats-transparent)
