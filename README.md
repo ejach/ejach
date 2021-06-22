@@ -23,8 +23,9 @@
 <br />
 I am currently a full-time student pursuing a degree in Computer Information Systems with a minor in Business Administration. 
 
-## Technologies 🤖 
-I have experience in:
+## Technologies <a href="#"><img align="top" alt="HappyBot" width="30px" src="https://github.com/ejach/ejach/raw/main/assets/robot-happy-outline.svg" /></a> 
+<details>
+<summary><a href="#"><img align="top" alt="iFrame" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/iframe-outline.svg" /></a> Languages </summary>
 
 - <a href="#"><img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" /></a> Python
 
@@ -38,9 +39,22 @@ I have experience in:
 
 - <a href="#"><img align="left" alt="C/C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" /></a> C/C++
 
-- <a href="#"><img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg" /></a>  Linux
+</details>
 
-- <a href="#"><img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" /></a>  Docker
+<details>
+<summary><a href="#"><img align="top" alt="Wrench" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/hammer-wrench.svg" /> Tools </summary>
+
+- <a href="#"><img align="left" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg" /></a>  Linux
+
+- <a href="#"><img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" /></a>  Git
+
+- <a href="#"><img align="left" alt="Docker" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" /></a>  Docker
+
+- <a href="#"><img align="left" alt="Heroku" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/heroku.svg" /></a>  Heroku
+
+- <a href="#"><img align="left" alt="Digial Ocean" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/digitalocean.svg" /></a>  Digital Ocean
+
+</details>
   
 [![Top Langs](https://github.com/ejach/github-stats-transparent/blob/output/generated/languages.svg)](https://github.com/rahul-jha98/github-stats-transparent)
 [![Overview](https://github.com/ejach/github-stats-transparent/blob/output/generated/overview.svg)](https://github.com/rahul-jha98/github-stats-transparent)
