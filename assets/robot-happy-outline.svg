@@ -4,11 +4,11 @@
 <foreignObject>
 <style>
         path {
-            fill: #ffff;
+            fill: #fff;
         }
         @media (prefers-color-scheme: dark) {
             path { 
-                fill: #0000; 
+                fill: #000; 
         }
         }
 </style>
