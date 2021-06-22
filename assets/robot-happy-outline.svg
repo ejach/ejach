@@ -7,7 +7,9 @@
             fill: #0000;
         }
         @media (prefers-color-scheme: dark) {
-            path { fill: #FFFF; }
+            path { 
+                fill: #FFFF; 
+        }
         }
 </style>
 </foreignObject>
