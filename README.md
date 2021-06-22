@@ -42,7 +42,7 @@ I am currently a full-time student pursuing a degree in Computer Information Sys
 </details>
 
 <details>
-<summary><a href="#"><img align="top" alt="Wrench" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/hammer-wrench.svg" /> Tools </summary>
+<summary><a href="#"><img align="top" alt="Wrench" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/hammer-wrench.svg" /></a> Tools </summary>
 
 - <a href="#"><img align="left" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg" /></a>  Linux
 
