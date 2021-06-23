@@ -16,9 +16,6 @@
 <a href="https://stackoverflow.com/users/13417835/ejach">
   <img align="left" alt="Evan's StackOverflow" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/stackoverflow.svg" />
 </a>
-<a href="https://ko-fi.com/ejach">
-  <img align="left" alt="Evan's Ko-Fi" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/ko-fi.svg" />
-</a>
 <a href="https://keybase.io/ejach">
   <img align="left" alt="Evan's Keybase" width="22px" src="https://raw.githubusercontent.com/ejach/ejach/main/assets/keybase.svg" />
 </a>
