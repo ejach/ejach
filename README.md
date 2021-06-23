@@ -19,8 +19,13 @@
 <a href="https://ko-fi.com/ejach">
   <img align="left" alt="Evan's Ko-Fi" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/ko-fi.svg" />
 </a>
-<br />
-<br />
+<a href="https://keybase.io/ejach">
+  <img align="left" alt="Evan's Keybase" width="22px" src="https://raw.githubusercontent.com/ejach/ejach/main/assets/keybase.svg" />
+</a>
+
+[`AE53 EDB7 38E3 CC77`](https://keybase.io/ejach/pgp_keys.asc)
+
+
 I am currently a full-time student pursuing a degree in Computer Information Systems with a minor in Business Administration. 
 
 ## Technologies <a href="#"><img align="top" alt="HappyBot" width="30px" src="https://github.com/ejach/ejach/raw/main/assets/robot-happy-outline.svg" /></a> 
