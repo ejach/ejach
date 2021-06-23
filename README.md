@@ -55,6 +55,8 @@ I am currently a full-time student pursuing a degree in Computer Information Sys
 - <a href="#"><img align="left" alt="Heroku" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/heroku.svg" /></a>  Heroku
 
 - <a href="#"><img align="left" alt="Digial Ocean" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/digitalocean.svg" /></a>  Digital Ocean
+  
+- <a href="#"><img align="left" alt="PyCharm" width="22px" src="https://raw.githubusercontent.com/ejach/ejach/main/assets/pycharm.svg" /></a>  PyCharm
 
 </details>
   
