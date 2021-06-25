@@ -5,7 +5,7 @@
   <img align="left" alt="Evan's LinkdeIn" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/linkedin.svg" />
 </a>
 <a href="https://dev.to/ejach">
-  <img align="left" alt="Evan's Dev.to" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/dev-dot-to.svg" />
+  <img align="left" alt="Evan's Dev.to" width="27px" src="https://github.com/ejach/ejach/raw/main/assets/dev-dot-to.svg" />
 </a>
 <a href="https://github.com/ejach">
   <img align="left" alt="Evan's Github" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/github.svg" />
@@ -14,13 +14,13 @@
   <img align="left" alt="Evan's Gitlab" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/gitlab.svg" />
 </a>
 <a href="https://hub.docker.com/u/ejach">
-  <img align="left" alt="Evan's Docker" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/docker.svg" />
+  <img align="left" alt="Evan's Docker" width="27px" src="https://github.com/ejach/ejach/raw/main/assets/docker.svg" />
 </a>
 <a href="https://stackoverflow.com/users/13417835/ejach">
-  <img align="left" alt="Evan's StackOverflow" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/stackoverflow.svg" />
+  <img align="left" alt="Evan's StackOverflow" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/stackoverflow.svg" />
 </a>
 <a href="https://keybase.io/ejach">
-  <img align="left" alt="Evan's Keybase" width="22px" src="https://raw.githubusercontent.com/ejach/ejach/main/assets/keybase.svg" />
+  <img align="left" alt="Evan's Keybase" width="25px" src="https://raw.githubusercontent.com/ejach/ejach/main/assets/keybase.svg" />
 </a>
 
 [`AE53 EDB7 38E3 CC77`](https://keybase.io/ejach/pgp_keys.asc)
