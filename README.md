@@ -4,6 +4,9 @@
 <a href="https://www.linkedin.com/in/evan-jach/">
   <img align="left" alt="Evan's LinkdeIn" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/linkedin.svg" />
 </a>
+<a href="https://dev.to/ejach">
+  <img align="left" alt="Evan's Dev.to" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/dev-dot-to.svg" />
+</a>
 <a href="https://github.com/ejach">
   <img align="left" alt="Evan's Github" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/github.svg" />
 </a>
