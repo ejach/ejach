@@ -26,9 +26,11 @@
 [`AE53 EDB7 38E3 CC77`](https://keybase.io/ejach/pgp_keys.asc)
 
 
-I am currently a full-time student pursuing a degree in Computer Information Systems with a minor in Business Administration. 
+I am currently a full-time student pursuing a degree in Computer Information Systems with a minor in Business Administration.   
+I am actively learning new languages and concepts whenever I find time. Aside from programming, I invest my time in furthering my experience in game development, cybersecurity, and computer hardware. 
 
-## Technologies <a href="#"><img align="top" alt="HappyBot" width="30px" src="https://github.com/ejach/ejach/raw/main/assets/robot-happy-outline.svg" /></a> 
+
+### What I Use <a href="#"><img align="top" alt="HappyBot" width="30px" src="https://github.com/ejach/ejach/raw/main/assets/robot-happy-outline.svg" /></a> 
 <details>
 <summary><a href="#"><img align="top" alt="iFrame" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/iframe-outline.svg" /></a> Languages </summary>
 
@@ -66,5 +68,10 @@ I am currently a full-time student pursuing a degree in Computer Information Sys
 [![Top Langs](https://github.com/ejach/github-stats-transparent/blob/output/generated/languages.svg)](https://github.com/rahul-jha98/github-stats-transparent)
 [![Overview](https://github.com/ejach/github-stats-transparent/blob/output/generated/overview.svg)](https://github.com/rahul-jha98/github-stats-transparent)
 
-I am actively learning new languages and concepts whenever I find time. Aside from programming, I invest my time in furthering my experience in game development, cybersecurity, and computer hardware. 
-
+<details>
+<summary><a href="#"><img align="top" alt="Heart" width="22px" src="https://raw.githubusercontent.com/ejach/ejach/main/assets/favorite.svg" /></a> How to Support Me</summary>
+  
+- <a href="https://ko-fi.com/ejach"><img align="left" alt="Ko-Fi" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/ko-fi.svg" /> Ko-fi</a>
+  
+- <a href="https://www.buymeacoffee.com/ejach"><img align="left" alt="Buy Me a Coffee" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/buymeacoffee.svg"> Buy Me a Coffee</a> 
+</details>
