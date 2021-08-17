@@ -75,6 +75,5 @@ Aside from programming, I invest my time in furthering my experience in game dev
 - <a href="https://www.buymeacoffee.com/ejach"><img align="left" alt="Buy Me a Coffee" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/buymeacoffee.svg"> Buy Me a Coffee</a> 
 
 - <a href="https://ko-fi.com/ejach"><img align="left" alt="Ko-Fi" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/ko-fi.svg" /> Ko-fi</a>
-  
-- <a href="https://github.com/sponsors/ejach"><img align="left" alt="GitHub Sponsors" src="https://raw.githubusercontent.com/ejach/ejach/main/assets/github_sponsor_btn.svg" /></a>
+
 </details>
