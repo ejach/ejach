@@ -75,6 +75,8 @@ Aside from programming, I invest my time in furthering my experience in game dev
 - <a href="https://www.buymeacoffee.com/ejach"><img align="left" alt="Buy Me a Coffee" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/buymeacoffee.svg"> Buy Me a Coffee</a> 
 
 - <a href="https://ko-fi.com/ejach"><img align="left" alt="Ko-Fi" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/ko-fi.svg" /> Ko-fi</a>
+  
+- <a href="https://github.com/ejach/ejach.github.io/raw/master/assets/Evan_Jachimiak%20Resume%202021-2022.pdf"><img align="left" alt="Evan's Resume" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/employee.svg" /> Hire me</a>
 
 - <a href="https://github.com/sponsors/ejach"><img align="left" alt="GitHub Sponsors" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/sponsor_heart.svg" /> Sponsor me</a>
 
