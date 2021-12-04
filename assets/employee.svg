@@ -3,11 +3,11 @@
 <foreignObject>
 <style>
         path {
-            fill: #000 !important;
+            fill: #000;
         }
         @media (prefers-color-scheme: dark) {
-            path {
-                filter: invert(71%) sepia(3%) saturate(1271%) hue-rotate(171deg) brightness(96%) contrast(88%);
+            path { 
+                fill: #7f8790; 
         }
         }
 </style>
