@@ -25,12 +25,6 @@
 <a href="https://stackoverflow.com/users/13417835/ejach">
   <img align="left" alt="Evan's StackOverflow" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/stackoverflow.svg" />
 </a>
-<a href="https://keybase.io/ejach">
-  <img align="left" alt="Evan's Keybase" width="25px" src="https://raw.githubusercontent.com/ejach/ejach/main/assets/keybase.svg" />
-</a>
-
-[`AE53 EDB7 38E3 CC77`](https://keybase.io/ejach/pgp_keys.asc)
-
 
 I am currently a full-time student pursuing a degree in Computer Information Systems with a minor in Business Administration.   
 I am actively learning new languages and concepts whenever I find time.   
