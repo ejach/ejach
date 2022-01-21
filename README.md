@@ -26,6 +26,8 @@
   <img align="left" alt="Evan's StackOverflow" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/stackoverflow.svg" />
 </a>
 
+
+<br/><br/>
 I am currently a full-time student pursuing a degree in Computer Information Systems with a minor in Business Administration.   
 I am actively learning new languages and concepts whenever I find time.   
 Aside from programming, I invest my time in furthering my experience in game development, cybersecurity, and computer hardware. 
