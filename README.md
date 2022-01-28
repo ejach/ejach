@@ -25,9 +25,13 @@
 <a href="https://stackoverflow.com/users/13417835/ejach">
   <img align="left" alt="Evan's StackOverflow" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/stackoverflow.svg" />
 </a>
+<a href="https://keybase.io/ejach">
+  <img align="left" alt="Evan's Keybase" width="25px" src="https://raw.githubusercontent.com/ejach/ejach/main/assets/keybase.svg" />
+</a>
+
+[`C7B7 C8CE 7DCB C785`](https://keybase.io/ejach/pgp_keys.asc)
 
 
-<br/><br/>
 I am currently a full-time student pursuing a degree in Computer Information Systems with a minor in Business Administration.   
 I am actively learning new languages and concepts whenever I find time.   
 Aside from programming, I invest my time in furthering my experience in game development, cybersecurity, and computer hardware. 
