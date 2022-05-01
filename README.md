@@ -32,7 +32,7 @@
 [`C7B7 C8CE 7DCB C785`](https://keybase.io/ejach/pgp_keys.asc)
 
 
-I am a recent graduate that received a B.S. in Computer Information Systems with a minor in Business Administration.   
+I am a recent graduate that received a BaS in Computer Information Systems with a minor in Business Administration.   
 I am actively learning new languages and concepts whenever I find time.   
 Aside from programming, I invest my time in furthering my experience in game development, cybersecurity, and computer hardware. 
 
