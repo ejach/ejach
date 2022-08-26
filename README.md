@@ -8,7 +8,7 @@
   <img align="left" alt="Evan's Website" width="25px" src="https://raw.githubusercontent.com/ejach/ejach/main/assets/globe.svg" />
 </a>
 <a href="https://threema.id/PNDCPW6A">
-  <img align="left" alt="Evan's Threema" width="25px" src="https://github.com/ejach/ejach/raw/man/assets/threema.svg" />
+  <img align="left" alt="Evan's Threema" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/threema.svg" />
 </a>
 <a href="https://dev.to/ejach">
   <img align="left" alt="Evan's Dev.to" width="27px" src="https://github.com/ejach/ejach/raw/main/assets/dev-dot-to.svg" />
