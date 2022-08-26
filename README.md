@@ -7,23 +7,14 @@
 <a href="https://ejach.com">
   <img align="left" alt="Evan's Website" width="25px" src="https://raw.githubusercontent.com/ejach/ejach/main/assets/globe.svg" />
 </a>
+<a href="https://threema.id/PNDCPW6A">
+  <img align="left" alt="Evan's Threema" width="25px" src="https://github.com/ejach/ejach/raw/man/assets/threema.svg" />
+</a>
 <a href="https://dev.to/ejach">
   <img align="left" alt="Evan's Dev.to" width="27px" src="https://github.com/ejach/ejach/raw/main/assets/dev-dot-to.svg" />
 </a>
-<a href="https://www.hackerrank.com/ejach">
-  <img align="left" alt="Evan's HackerRank" width="27px" src="https://github.com/ejach/ejach/raw/main/assets/hackerrank.svg" />
-</a>
 <a href="https://github.com/ejach">
   <img align="left" alt="Evan's Github" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/github.svg" />
-</a>
-<a href="https://gitlab.com/e-jach">
-  <img align="left" alt="Evan's Gitlab" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/gitlab.svg" />
-</a>
-<a href="https://hub.docker.com/u/ejach">
-  <img align="left" alt="Evan's Docker" width="27px" src="https://github.com/ejach/ejach/raw/main/assets/docker.svg" />
-</a>
-<a href="https://stackoverflow.com/users/13417835/ejach">
-  <img align="left" alt="Evan's StackOverflow" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/stackoverflow.svg" />
 </a>
 <a href="https://keybase.io/ejach">
   <img align="left" alt="Evan's Keybase" width="25px" src="https://raw.githubusercontent.com/ejach/ejach/main/assets/keybase.svg" />
