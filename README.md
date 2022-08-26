@@ -53,8 +53,6 @@ Aside from programming, I invest my time in furthering my experience in game dev
 
 - <a href="#"><img align="left" alt="Git" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/git.svg" /></a>  Git
 
-- <a href="#"><img align="left" alt="Docker" width="24px" src="https://github.com/ejach/ejach/raw/main/assets/docker.svg" /></a>  Docker
-
 - <a href="#"><img align="left" alt="Heroku" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/heroku.svg" /></a>  Heroku
 
 - <a href="#"><img align="left" alt="Digial Ocean" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/digitalocean.svg" /></a>  Digital Ocean
