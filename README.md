@@ -7,9 +7,7 @@
 <a href="https://ejach.com">
   <img align="left" alt="Evan's Website" width="25px" src="https://raw.githubusercontent.com/ejach/ejach/main/assets/globe.svg" />
 </a>
-<a href="https://threema.id/PNDCPW6A">
-  <img align="left" alt="Evan's Threema" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/threema.svg" />
-</a>
+
 <a href="https://dev.to/ejach">
   <img align="left" alt="Evan's Dev.to" width="27px" src="https://github.com/ejach/ejach/raw/main/assets/dev-dot-to.svg" />
 </a>
@@ -23,22 +21,28 @@
 [`C7B7 C8CE 7DCB C785`](https://keybase.io/ejach/pgp_keys.asc)
 
 
-I am a recent graduate that received a BaS in Computer Information Systems with a minor in Business Administration.   
-I am actively learning new languages and concepts whenever I find time.   
-Aside from programming, I invest my time in furthering my experience in game development, cybersecurity, and computer hardware. 
+I’m a full-stack software engineer specializing in Python, Django, Flask, React, and MySQL. I design and build tools and applications that solve real problems and provide value for both myself and others, while actively exploring new languages, frameworks, and technologies to expand my skill set.
 
 
 ## What I Use <a href="#"><img align="top" alt="HappyBot" width="30px" src="https://github.com/ejach/ejach/raw/main/assets/robot-happy-outline.svg" /></a> 
 <details>
-<summary><a href="#"><img align="top" alt="iFrame" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/iframe-outline.svg" /></a> Languages </summary>
+<summary><a href="#"><img align="top" alt="iFrame" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/iframe-outline.svg" /></a> Languages and Frameworks </summary>
 
 - <a href="#"><img align="left" alt="Python" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/python.svg" /></a> Python
-
-- <a href="#"><img align="left" alt="PHP" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/php.svg" /></a> PHP
 
 - <a href="#"><img align="left" alt="MySQL" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/mysql.svg" /></a> MySQL
 
 - <a href="#"><img align="left" alt="JavaScript" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/javascript.svg" /></a> JavaScript
+
+- <a href="#"><img align="left" alt="React" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/react.svg" /></a> React
+
+- <a href="#"><img align="left" alt="Kotlin" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/kotlin.svg" /></a> Kotlin
+
+- <a href="#"><img align="left" alt="Swfit" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/swift.svg" /></a> Swift
+
+- <a href="#"><img align="left" alt="Ruby" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/ruby.svg" /></a> Ruby
+
+- <a href="#"><img align="left" alt="PHP" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/php.svg" /></a> PHP
 
 - <a href="#"><img align="left" alt="Java" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/java.svg" /></a> Java 
 
@@ -49,15 +53,11 @@ Aside from programming, I invest my time in furthering my experience in game dev
 <details>
 <summary><a href="#"><img align="top" alt="Wrench" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/hammer-wrench.svg" /></a> Tools </summary>
 
+- <a href="#"><img align="left" alt="Linux" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/docker.svg" /></a>  Docker
+
 - <a href="#"><img align="left" alt="Linux" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/linux.svg" /></a>  Linux
 
 - <a href="#"><img align="left" alt="Git" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/git.svg" /></a>  Git
-
-- <a href="#"><img align="left" alt="Heroku" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/heroku.svg" /></a>  Heroku
-
-- <a href="#"><img align="left" alt="Digial Ocean" width="22px" src="https://github.com/ejach/ejach/raw/main/assets/digitalocean.svg" /></a>  Digital Ocean
-  
-- <a href="#"><img align="left" alt="PyCharm" width="22px" src="https://raw.githubusercontent.com/ejach/ejach/main/assets/pycharm.svg" /></a>  PyCharm
 
 </details>
   
@@ -70,8 +70,6 @@ Aside from programming, I invest my time in furthering my experience in game dev
 - <a href="https://www.buymeacoffee.com/ejach"><img align="left" alt="Buy Me a Coffee" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/buymeacoffee.svg"> Buy Me a Coffee</a> 
 
 - <a href="https://ko-fi.com/ejach"><img align="left" alt="Ko-Fi" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/ko-fi.svg" /> Ko-fi</a>
-  
-- <a href="https://ejach.com/assets/Evan_Jachimiak_2022-2023.pdf"><img align="left" alt="Evan's Resume" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/employee.svg" /> Hire me</a>
 
 - <a href="https://github.com/sponsors/ejach"><img align="left" alt="GitHub Sponsors" width="25px" src="https://github.com/ejach/ejach/raw/main/assets/sponsor_heart.svg" /> Sponsor me</a>
 
